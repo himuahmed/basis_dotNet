@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\bin\Debug\taskTwo.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\bin\Debug\taskTwo.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\bin\Debug\taskTwo.pdb
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\obj\Debug\taskTwo.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\obj\Debug\taskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\obj\Debug\taskTwo.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 1\taskTwo\taskTwo\obj\Debug\taskTwo.pdb

@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 16878978;
+            long l = 465570934567890;
+            l = i;
+            string number = "3";
+            i=Convert.to
+            
+        }
+    }
+}

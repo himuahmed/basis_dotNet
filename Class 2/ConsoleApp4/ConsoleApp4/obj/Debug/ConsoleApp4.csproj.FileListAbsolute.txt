@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Web App Develop .Net\Desktop\Himu\Class 2\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

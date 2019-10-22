@@ -1,0 +1,19 @@
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.Form1.resources
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.Properties.Resources.resources
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\bin\Debug\book_keeper.exe.config
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\bin\Debug\book_keeper.exe
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\bin\Debug\book_keeper.pdb
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.exe
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.pdb
+C:\Users\Web App Develop .Net\source\repos\book_keeper\book_keeper\obj\Debug\book_keeper.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\bin\Debug\book_keeper.exe.config
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.exe
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.pdb
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\bin\Debug\book_keeper.exe
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\bin\Debug\book_keeper.pdb
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.Form1.resources
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.Properties.Resources.resources
+C:\Users\Ace\Desktop\Himu\Class_test_1\book_keeper\book_keeper\obj\Debug\book_keeper.csproj.GenerateResource.Cache
