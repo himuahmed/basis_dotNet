@@ -1,0 +1,5 @@
+C:\Users\Ace\Desktop\Tasks 01\problem4\problem4\bin\Debug\problem4.exe.config
+C:\Users\Ace\Desktop\Tasks 01\problem4\problem4\bin\Debug\problem4.exe
+C:\Users\Ace\Desktop\Tasks 01\problem4\problem4\bin\Debug\problem4.pdb
+C:\Users\Ace\Desktop\Tasks 01\problem4\problem4\obj\Debug\problem4.exe
+C:\Users\Ace\Desktop\Tasks 01\problem4\problem4\obj\Debug\problem4.pdb

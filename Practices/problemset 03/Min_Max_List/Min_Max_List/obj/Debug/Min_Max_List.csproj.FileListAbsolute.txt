@@ -1,0 +1,6 @@
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\bin\Debug\Min_Max_List.exe.config
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\bin\Debug\Min_Max_List.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\bin\Debug\Min_Max_List.pdb
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\obj\Debug\Min_Max_List.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\obj\Debug\Min_Max_List.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\Min_Max_List\Min_Max_List\obj\Debug\Min_Max_List.pdb

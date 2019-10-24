@@ -1,0 +1,6 @@
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\obj\Debug\MinMax.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\MinMax\MinMax\obj\Debug\MinMax.pdb

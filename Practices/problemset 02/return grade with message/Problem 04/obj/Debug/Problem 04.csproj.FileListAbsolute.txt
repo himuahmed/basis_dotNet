@@ -1,0 +1,9 @@
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\bin\Debug\Problem 04.exe.config
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\bin\Debug\Problem 04.exe
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\bin\Debug\Problem 04.pdb
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\obj\Debug\Problem 04.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\obj\Debug\Problem 04.exe
+C:\Users\Ace\Desktop\Task 02\Problem 04\Problem 04\obj\Debug\Problem 04.pdb
+C:\Users\Ace\Desktop\dotNet\Task 02\Problem 04\Problem 04\bin\Debug\Problem 04.exe.config
+C:\Users\Ace\Desktop\dotNet\Task 02\Problem 04\Problem 04\obj\Debug\Problem 04.exe
+C:\Users\Ace\Desktop\dotNet\Task 02\Problem 04\Problem 04\obj\Debug\Problem 04.pdb

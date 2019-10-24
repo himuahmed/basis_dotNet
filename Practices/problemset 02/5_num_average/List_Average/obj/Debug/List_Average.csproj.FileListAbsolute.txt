@@ -1,0 +1,6 @@
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\bin\Debug\List_Average.exe.config
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\bin\Debug\List_Average.exe
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\bin\Debug\List_Average.pdb
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\obj\Debug\List_Average.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\obj\Debug\List_Average.exe
+C:\Users\Ace\Desktop\hhhwww\List_Average\List_Average\obj\Debug\List_Average.pdb

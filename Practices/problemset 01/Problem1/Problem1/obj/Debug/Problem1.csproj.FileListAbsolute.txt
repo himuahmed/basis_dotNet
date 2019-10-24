@@ -1,0 +1,19 @@
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Ace\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.pdb
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Web App Develop .Net\Desktop\Tasks 01\Problem1\Problem1\obj\Debug\Problem1.pdb
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\obj\Debug\Problem1.pdb
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache

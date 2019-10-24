@@ -1,0 +1,12 @@
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.exe.config
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.exe
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.pdb
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.csproj.GenerateResource.Cache
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.exe
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.pdb
+C:\Users\Ace\Desktop\InterestCal\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.Interest_Calculator.resources
+C:\Users\Ace\Desktop\InterestCalculator\Interest_Calculator\Interest_Calculator\bin\Debug\Interest_Calculator.exe.config
+C:\Users\Ace\Desktop\InterestCalculator\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.exe
+C:\Users\Ace\Desktop\InterestCalculator\Interest_Calculator\Interest_Calculator\obj\Debug\Interest_Calculator.pdb

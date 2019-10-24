@@ -1,0 +1,6 @@
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe.config
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.pdb
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.exe
+C:\Users\Ace\Desktop\hhhwww\New folder\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.pdb

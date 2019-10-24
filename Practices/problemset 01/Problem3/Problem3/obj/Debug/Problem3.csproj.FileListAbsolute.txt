@@ -1,0 +1,8 @@
+C:\Users\Ace\Desktop\Tasks 01\Problem3\Problem3\bin\Debug\Problem3.exe.config
+C:\Users\Ace\Desktop\Tasks 01\Problem3\Problem3\bin\Debug\Problem3.exe
+C:\Users\Ace\Desktop\Tasks 01\Problem3\Problem3\bin\Debug\Problem3.pdb
+C:\Users\Ace\Desktop\Tasks 01\Problem3\Problem3\obj\Debug\Problem3.exe
+C:\Users\Ace\Desktop\Tasks 01\Problem3\Problem3\obj\Debug\Problem3.pdb
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem3\Problem3\bin\Debug\Problem3.exe.config
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem3\Problem3\obj\Debug\Problem3.exe
+C:\Users\Ace\Desktop\hhhwww\HomeWork_Tasks 01\Problem3\Problem3\obj\Debug\Problem3.pdb
