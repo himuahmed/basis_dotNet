@@ -1,9 +1,0 @@
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\bin\Debug\listbox_Messagebox.exe.config
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\bin\Debug\listbox_Messagebox.exe
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\bin\Debug\listbox_Messagebox.pdb
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.csprojResolveAssemblyReference.cache
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.Form1.resources
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.Properties.Resources.resources
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.csproj.GenerateResource.Cache
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.exe
-C:\Users\Ace\Desktop\Himu\Practice\listbox_Messagebox\listbox_Messagebox\obj\Debug\listbox_Messagebox.pdb
